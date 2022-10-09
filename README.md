@@ -1,4 +1,4 @@
-# I'm LeviOliveira
+# I'm Levi Oliveira
 
 -🎮Front-end
 -📚Graduando em ADS
