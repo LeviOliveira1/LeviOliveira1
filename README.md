@@ -2,7 +2,7 @@
 
 -🎮Front-end
 -📚Graduando em ADS
--⏳Aprendendo Back-end
+-⏳ Back-end
 -💎Meta:Full stack
 
   <a href="https://github.com/LeviOliveira1">
