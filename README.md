@@ -1,7 +1,7 @@
 # I'm Levi Oliveira
 
 -🎮Front-end
--📚Graduando em ADS
+-📚Graduando em Análise e Desenvolvimento de Sistemas
 -⏳ Back-end
 -💎Meta:Full stack
 
