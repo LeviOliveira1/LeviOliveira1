@@ -2,7 +2,6 @@
 
 -🎮Front-end
 -📚Graduando em Análise e Desenvolvimento de Sistemas
--⏳ Back-end
 -💎Meta:Full stack
 
   <a href="https://github.com/LeviOliveira1">
