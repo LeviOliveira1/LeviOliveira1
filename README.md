@@ -1,27 +1,30 @@
-# I'm Levi Oliveira
+ <h1>Olá, eu sou Levi Oliveira!👋</h1>
 
 -🎮Front-end
 -📚Graduando em Análise e Desenvolvimento de Sistemas
 -💎Meta:Full stack
 
-  <a href="https://github.com/LeviOliveira1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeviOliveira1&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeviOliveira1&layout=compact&langs_count=7&theme=merko"/>
+<div>  
+  <img  height="165em" src="https://github-readme-stats.vercel.app/api?username=LeviOliveir4&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeviOliveir4&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
-<div style="display: inline_block"><br>
-<img align="center" alt="Levi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="Levi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="Levi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="Levi-REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
- </div>
- 
-   ##
- 
- <div>
-<a href="https://instagram.com/levioliveira_1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/levi-oliveira-martins-costa-3970b1211" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:levideoliveira2022@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+<br>
 
-
-
+<div  align="center"> 
+  <div style="display: inline_block"><br>
+    <img align="center" height="220" alt="coding-time" src="Hacker-bro.svg" >
+    <h1 align="center">Tecnologias</h1>
+    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   </div>
+    
   
+  <h1 align="center">Redes Sociais</h1>
+    <a href="https://www.linkedin.com/in/levi-oliveira-martins-costa-3970b1211" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    </a>
+    
+</div>
+  
+
